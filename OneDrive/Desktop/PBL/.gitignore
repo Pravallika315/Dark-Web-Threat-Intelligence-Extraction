@@ -1,0 +1,11 @@
+
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+.DS_Store
+
+# Keep large or sensitive datasets private
+Dataset/*.csv
+Screenshots/
